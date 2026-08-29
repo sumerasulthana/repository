@@ -1,0 +1,6 @@
+num1 = 10
+num2 = 5
+
+# Add the numbers together
+total_sum = num1 + num2
+print("The sum is:", total_sum)
