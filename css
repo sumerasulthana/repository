@@ -1,0 +1,6 @@
+body {
+    background-color: #f0f2f5;   /* Light gray background */
+    font-family: Arial, sans-serif; /* Clean, readable text font */
+    margin: 0;                   /* Removes default browser margins */
+    padding: 20px;               /* Adds space inside the body borders */
+}
